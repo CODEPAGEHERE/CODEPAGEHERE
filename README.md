@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any project that will make the world a better place
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: im a computer naturalist / enthusiast
+- ⚡ Fun fact: H.A.P.P.Y - C.O.D.E
 
 <!---
 CODEPAGEHERE/CODEPAGEHERE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
